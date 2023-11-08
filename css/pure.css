@@ -1,0 +1,11 @@
+#page{
+    width: 90%;
+    margin: 20px auto;
+    border: 2px dashed #666;
+    min-height: 500px;
+    padding: 30px;
+}
+
+.button-primary{
+    background: rgb(28, 22, 331);
+}
