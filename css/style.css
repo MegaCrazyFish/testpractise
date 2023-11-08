@@ -52,3 +52,7 @@ input[type="button"]{
     border-radius: 5px;
     border: 2px #999 solid;
 }
+
+p{
+    background: black;
+}
